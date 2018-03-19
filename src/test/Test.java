@@ -7,7 +7,7 @@ import java.util.Date;
 public class Test  implements Comparable<Integer>{
 public static void main(String[] args) throws InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException, NoSuchMethodException, SecurityException, ClassNotFoundException {
 	System.out.println("aa");
-		String a=reverse("abc");
+		String a=reverse("abddc");
 		System.out.println(a);
 		System.out.println();
 		 SimpleDateFormat sdf =new SimpleDateFormat("yyyy-MM-dd HH:mm:ss SSS" );
